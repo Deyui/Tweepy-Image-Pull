@@ -14,7 +14,7 @@
  
  - replace variables marked with `<YOUR> `as needed shown in the code 
  
- - if you want to change how the filename is called, change {url} in l.84
+ - if you want to change how the filename is called, change `{url}` in l.84
  
 # Usage
  1. Have the tweet link already stored in your clipboard.
