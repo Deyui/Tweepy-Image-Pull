@@ -12,7 +12,7 @@
  - pip install wget
  - pip install pyperclip
  
- - replace variables marked with <YOUR> as needed shown in the code 
+ - replace variables marked with `<YOUR> `as needed shown in the code 
  
  - if you want to change how the filename is called, change {url} in l.84
  
