@@ -16,7 +16,7 @@
  
  - if you want to change how the filename is called, change {url} in l.84
  
-#Usage
+# Usage
  1. Have the tweet link already stored in your clipboard.
 
  2. Go to the location of the public.py file, open cmd and enter:
@@ -27,7 +27,7 @@
  
  3. When asked to continue, copy the link before starting the new downloading process.
  
-#Links
+# Links
  Tweepy:      https://www.tweepy.org/
  Twitter APP: https://developer.twitter.com/en/apps
  wget:        https://pypi.org/project/wget/
