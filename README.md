@@ -28,7 +28,7 @@
  3. When asked to continue, copy the link before starting the new downloading process.
  
 # Links
- Tweepy:      https://www.tweepy.org/
- Twitter APP: https://developer.twitter.com/en/apps
- wget:        https://pypi.org/project/wget/
- pyperclip:   https://pypi.org/project/pyperclip/
+ Tweepy:      https://www.tweepy.org/  
+ Twitter APP: https://developer.twitter.com/en/apps  
+ wget:        https://pypi.org/project/wget/  
+ pyperclip:   https://pypi.org/project/pyperclip/  
