@@ -20,7 +20,7 @@ public.py is to download a specific image from a link, that you have copied, whe
  
  - if you want to change how the filename is called, change `{url}` in l.84
  
-# Usage
+# Usage public.py
  1. Have the tweet link already stored in your clipboard.
 
  2. Go to the location of the public.py file, open cmd and enter:
@@ -29,7 +29,14 @@ public.py is to download a specific image from a link, that you have copied, whe
  >python public.py 
  ```
  
- 3. When asked to continue, copy the link before starting the new downloading process. The first_post.py script won't ask you whether you want to continue.
+ 3. When asked to continue, copy the link before starting the new downloading process.
+ 
+ # Usage public.py
+ 2. Go to the location of the public.py file, open cmd and enter:
+ 
+ ```
+ >python newest_post.py 
+ ```
  
  TIP: Personally, I use a bat file that does that for me as it's quicker.
  
