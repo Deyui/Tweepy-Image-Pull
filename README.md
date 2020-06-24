@@ -31,7 +31,7 @@ public.py is to download a specific image from a link, that you have copied, whe
  
  3. When asked to continue, copy the link before starting the new downloading process.
  
- # Usage public.py
+ # Usage newest_post.py
  2. Go to the location of the public.py file, open cmd and enter:
  
  ```
