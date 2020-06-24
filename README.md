@@ -6,7 +6,7 @@
 # Requirements
  
  - Twitter Developer App with Keys and Tokens from https://developer.twitter.com/en/apps
- - Maybe Python 3.6
+ - Python 3.6+
 
  - pip install tweepy
  - pip install wget
@@ -26,6 +26,8 @@
  ```
  
  3. When asked to continue, copy the link before starting the new downloading process.
+ 
+ TIP: Personally, I use a bat file that does that for me as it's quicker.
  
 # Links
  Tweepy:      https://www.tweepy.org/  
