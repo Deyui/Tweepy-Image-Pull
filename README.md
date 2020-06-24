@@ -2,6 +2,10 @@
  A Python script using the Twitter API through tweepy, that will allow you to download an image from Twitter and let's you store it in a destination folder and rename it however you want with only the tweet link.
  Initially made for me to effectively download Gochiusa illustrations for private usage.
  I'm just a beginner and that was one of my first projects, so please go easy on me, if there are any issues.
+ 
+ 
+# Difference between public.py and newest_post.py
+public.py is to download a specific image from a link, that you have copied, whereas newest_post.py will automatically download the image of the newest post of a Twitter profile.
 
 # Requirements
  
@@ -25,7 +29,7 @@
  >python public.py 
  ```
  
- 3. When asked to continue, copy the link before starting the new downloading process.
+ 3. When asked to continue, copy the link before starting the new downloading process. The first_post.py script won't ask you whether you want to continue.
  
  TIP: Personally, I use a bat file that does that for me as it's quicker.
  
